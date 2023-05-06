@@ -1,0 +1,10 @@
+/* 
+    Theme Name: The Learning Tree
+    Author: Group D SP51
+    Version: 1.0.
+
+*/
+
+svg {
+  filter: brightness(0.5) saturate(0.8) invert(1);
+}
