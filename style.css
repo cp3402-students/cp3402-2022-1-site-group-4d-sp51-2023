@@ -532,8 +532,6 @@ dd {
 }
 
 .navbar-expand-lg, .navbar-collapse {
-    display: flex!important;
-    flex-basis: auto;
     justify-content: flex-end;
 }
 
@@ -1006,4 +1004,10 @@ textarea {
 
 .post, .page {
     margin: 0 0 0;
+}
+
+a.nav-link {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
 }
