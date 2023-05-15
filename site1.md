@@ -35,7 +35,39 @@ Possible suggestions for adding a new post:
 
 Here are some plugins that you may find helpful:
 
-* **Akismet Anti-Spam:** This plugin is to protect the blog from spam.
-* **Elementor:** Provide functions of drag and drop page builder, pixel perfect design, mobile responsive editing
-* **ElementsKit Lite:** Provide addons for Elementor with tons of widgets, Header builder, Footer builder, Mega menu builder, layout pack and powerful custom controls.
-* **PostX:** Provide blocks that includes post gird, post list, post slider, carousel, news ticker, etc.
+
+
+# Plugins Information
+
+Here are the plugins we used for our WordPress site:
+
+* **All-in-One WP Migration:** This plugin is used for migrating the website from one host to another.
+
+* **Autoptimize:** This plugin is used to optimize website speed by minifying and caching the code.
+
+* **Blocks Animation: CSS Animations for Gutenberg Blocks:** This plugin is used to add CSS animations to the Gutenberg blocks.
+
+* **Easy Google Fonts:** This plugin is used to easily add custom Google fonts to the website.
+
+* **Hostinger:** This plugin is used to manage and monitor the website hosting account.
+
+* **Ivory Search:** This plugin is used to add a search bar to the website and customize the search results.
+
+* **Kenta Blocks:** This plugin is used to add more blocks to the Gutenberg editor.
+
+* **LiteSpeed Cache:** This plugin is used to improve website performance by optimizing the cache.
+
+* **Performance Lab:** This plugin is used to analyze the website's performance and suggest improvements.
+
+* **PublishPress Blocks:** This plugin is used to add more blocks to the Gutenberg editor and customize their appearance.
+
+* **Spectra:** This plugin is used to add custom colors and gradients to the website.
+
+* **TablePress:** This plugin is used to create and manage tables in WordPress without any coding knowledge.
+
+* **Title Remover:** This plugin is used to remove the website title from specific pages or posts.
+
+* **WordPress Importer:** This plugin is used to import posts, pages, comments, custom fields, categories, and tags from a WordPress export file.
+
+* **WPForms Lite:** This plugin is used to create and manage custom forms for the website.
+![screencapture-baizonnlearningcentre-wp-admin-plugins-php-2023-05-15-20_50_02](https://github.com/cp3402-students/cp3402-2022-1-site-group-4d-sp51-2023/assets/71718819/2dad6f63-d6a6-4501-9ea7-490ec608359a)
