@@ -52,3 +52,5 @@ builder, Footer builder, Mega menu builder, layout pack and powerful custom
 controls.
 -PostX: Provide blocks that includes post gird, post list, post slider, 
 carousel, news ticker, etc. 
+![screencapture-baizonnlearningcentre-wp-admin-plugins-php-2023-05-15-20_50_02](https://github.com/cp3402-students/cp3402-2022-1-site-group-4d-sp51-2023/assets/71718819/2dad6f63-d6a6-4501-9ea7-490ec608359a)
+
