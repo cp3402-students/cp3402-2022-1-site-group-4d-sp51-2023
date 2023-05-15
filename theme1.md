@@ -41,7 +41,7 @@ the copyright information and social media links.
 
 ## Colors
 
-Primary Color: #046307
+Primary Color: #2f9048
 Secondary Color: #8ED1FC
 Background Color: #ffffff
 
