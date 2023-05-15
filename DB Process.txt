@@ -1,6 +1,6 @@
 DB Process Tracking
 
-Home page developed by Kaung Sithu Linn and 
+Home page developed by Kaung Sithu Linn
 Time: 6:30
 Date: 7 May 2023
 
@@ -12,7 +12,7 @@ Blog page developed by Myo Min Htwe
 Time: 7:04
 Date: 7 Jan 2020
 
-Subjects page and Posts developed by Kyaw Zaya
+Subjects page and Posts developed by Kyaw Zaya and Ma Sen
 Time: 12:30 am
 Date: 7 May 2023
 
